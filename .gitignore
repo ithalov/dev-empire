@@ -1,0 +1,8 @@
+# Repositório público: apenas apresentação e imagens selecionadas.
+/*
+!/.gitignore
+!/README.md
+!/media/
+/media/*
+!/media/banner.webp
+!/media/office-art.webp
