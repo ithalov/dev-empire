@@ -6,3 +6,10 @@
 /media/*
 !/media/banner.webp
 !/media/office-art.webp
+!/media/screenshots/
+/media/screenshots/*
+!/media/screenshots/01-menu.png
+!/media/screenshots/02-visao-geral.png
+!/media/screenshots/03-projeto.png
+!/media/screenshots/04-equipe.png
+!/media/screenshots/05-tecnologias.png
