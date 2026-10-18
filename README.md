@@ -1,165 +1,111 @@
 <p align="center">
-  <img src="media/banner.webp" alt="Dev Empire — da garagem ao império do software" width="960">
+  <img src="media/banner.webp" alt="Dev Empire — build your software empire" width="960">
 </p>
 
 <h1 align="center">Dev Empire</h1>
 
-<p align="center"><strong>Uma garagem, um computador e uma ideia.<br>O próximo império do software começa com você.</strong></p>
+<p align="center"><strong>Start with an idea. Build a company. Make your mark.</strong><br>A software company tycoon, made in Brazil for players around the world.</p>
 
 <p align="center">
-  <a href="https://github.com/ithalov/dev-empire/releases/tag/v2.23.0"><img src="https://img.shields.io/badge/vers%C3%A3o-2.23.0-blue?style=flat-square" alt="Versão 2.23.0"></a>
-  <img src="https://img.shields.io/badge/status-BETA-orange?style=flat-square" alt="Em BETA">
-  <img src="https://img.shields.io/badge/plataforma-Windows_x64-0078D4?style=flat-square" alt="Windows x64">
-  <img src="https://img.shields.io/badge/idiomas-7-2E7D32?style=flat-square" alt="7 idiomas disponíveis">
-  <img src="https://img.shields.io/badge/modo-single--player_%C2%B7_offline-6655AA?style=flat-square" alt="Single-player e offline">
+  <a href="https://github.com/ithalov/dev-empire/releases/tag/v2.23.0"><img src="https://img.shields.io/badge/version-2.23.0-F28C28?style=flat-square" alt="Version 2.23.0"></a>
+  <img src="https://img.shields.io/badge/status-BETA-9B59B6?style=flat-square" alt="Beta — in development">
+  <img src="https://img.shields.io/badge/platform-Windows_x64-0078D4?style=flat-square" alt="Windows x64">
+  <img src="https://img.shields.io/badge/languages-7-2E7D32?style=flat-square" alt="Seven interface languages">
+  <img src="https://img.shields.io/badge/play-single--player_%C2%B7_offline-555555?style=flat-square" alt="Single-player and offline">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.23.0/Dev-Empire-2.23.0-Windows.exe"><img src="https://img.shields.io/badge/BAIXAR_BETA_2.23.0-WINDOWS_x64-F28C28?style=for-the-badge&logo=github&logoColor=white" alt="Baixar Dev Empire BETA 2.23.0 para Windows"></a>
+  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.23.0/Dev-Empire-2.23.0-Windows.exe"><img src="https://img.shields.io/badge/DOWNLOAD_BETA_2.23.0-WINDOWS_x64-F28C28?style=for-the-badge&logo=github&logoColor=white" alt="Download Dev Empire Beta 2.23.0 for Windows"></a>
 </p>
 
 <p align="center">
-  <a href="#o-jogo">O jogo</a> · <a href="#imagens-do-jogo">Imagens</a> · <a href="#como-jogar">Como jogar</a> · <a href="#sobre-o-beta">Sobre o BETA</a> · <a href="https://github.com/ithalov/dev-empire/releases">Atualizações</a>
+  <a href="#the-game">The game</a> · <a href="#a-small-look-inside">Preview</a> · <a href="#languages">Languages</a> · <a href="#start-playing">Start playing</a> · <a href="https://github.com/ithalov/dev-empire/releases">Updates</a>
 </p>
 
 ---
 
-## O jogo
+## The game
 
-**Dev Empire** é um simulador de gestão de empresa de software. Comece pequeno, conquiste seus primeiros clientes e decida como transformar uma equipe em uma empresa capaz de lançar seus próprios produtos.
+A small workspace. Your first client. An idea that could become something bigger.
 
-Negocie contratos, escolha tecnologias e acompanhe cada projeto até a entrega. Conforme a empresa cresce, novos desafios entram em cena: formar talentos, manter a qualidade, enfrentar concorrentes e equilibrar as contas.
+**Dev Empire** is a single-player software company management game. Take on contracts, bring talented people together and turn your ideas into products. Decide what to build, how to grow and when to take a risk as the industry changes around you.
 
-### O que você pode fazer
+Pause to plan, speed up to see the results, and find your own way forward. The founder's guide helps you get started; the decisions that follow are yours.
 
-| Desenvolva | Gerencie | Expanda |
-|---|---|---|
-| Aceite e negocie contratos | Contrate e treine sua equipe | Amplie o escritório |
-| Organize desenvolvimento e testes | Cuide de salários, moral e descanso | Pesquise novas tecnologias |
-| Lance produtos próprios | Controle caixa, preços e investimentos | Entre em novos mercados |
-| Publique melhorias e dê suporte | Reaja a eventos e decisões de negócio | Dispute espaço com concorrentes |
+- **Create software:** choose technologies, manage development and bring products to market.
+- **Build a team:** hire people, develop their skills and look after the workplace.
+- **Grow your company:** shape your office, manage your finances and explore new opportunities.
+- **React to a changing world:** customers, competitors and unexpected events keep your plans moving.
+- **Make it your own:** explore local content mods and different ways to run your business.
 
-Jogue no seu ritmo: pause para planejar ou acelere o tempo para acompanhar os resultados das suas decisões.
+## A small look inside
 
-## Novidades da BETA 2.23.0
+A glimpse of your future workspace. The rest is yours to discover.
 
-- **Concorrência em movimento:** os rivais lançam aplicativos a cada dois meses, atualizam produtos, fazem campanhas, contratam e fecham parcerias. Novas empresas entram no mercado ao longo da partida.
-- **Um mercado que muda:** o público cresce a cada ano e **85 acontecimentos** movimentam empresas e funcionários, com efeitos na procura, no caixa e na equipe.
-- **Jornal com novidades a cada três dias:** boletins das empresas, cobertura de lançamentos e filtros para acompanhar quem você quiser.
-- **Governo e economia:** 18 medidas temporárias de incentivo ou restrição, seis novas exigências fictícias de adaptação e tributos sobre receitas de produtos, com detalhamento em Finanças.
-- **Reconhecimento pelo seu trabalho:** nove novas premiações anuais, incluindo Programador do Ano, Mentor do Ano e Talento Revelação.
-- **Mais formas de construir seu império:** loja virtual, promoções, decoração do escritório, evolução da equipe, aquisições e novas versões de produtos.
-
-## Imagens do jogo
-
-Capturas reais do aplicativo Windows **BETA 2.23.0**, com uma empresa de demonstração. Clique para ampliar.
-
-### Sua empresa em um só lugar
-
-[![Visão geral de Aurora Software na BETA 2.23.0](media/screenshots/02-visao-geral.png)](media/screenshots/02-visao-geral.png)
-
-<table>
-  <tr>
-    <td width="50%" align="center"><strong>Jornal e notícias</strong></td>
-    <td width="50%" align="center"><strong>Concorrência e mercado</strong></td>
-  </tr>
-  <tr>
-    <td><a href="media/screenshots/11-noticias.png"><img src="media/screenshots/11-noticias.png" alt="Jornal e notícias — Dev Empire BETA 2.23.0" width="100%"></a></td>
-    <td><a href="media/screenshots/10-concorrencia.png"><img src="media/screenshots/10-concorrencia.png" alt="Concorrência e mercado — Dev Empire BETA 2.23.0" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><strong>Governo e regulação</strong></td>
-    <td width="50%" align="center"><strong>Premiações anuais</strong></td>
-  </tr>
-  <tr>
-    <td><a href="media/screenshots/12-governo.png"><img src="media/screenshots/12-governo.png" alt="Governo e regulação — Dev Empire BETA 2.23.0" width="100%"></a></td>
-    <td><a href="media/screenshots/13-premios.png"><img src="media/screenshots/13-premios.png" alt="Premiações anuais — Dev Empire BETA 2.23.0" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><strong>Produtos próprios</strong></td>
-    <td width="50%" align="center"><strong>Loja virtual</strong></td>
-  </tr>
-  <tr>
-    <td><a href="media/screenshots/06-produtos.png"><img src="media/screenshots/06-produtos.png" alt="Produtos próprios — Dev Empire BETA 2.23.0" width="100%"></a></td>
-    <td><a href="media/screenshots/08-plataformas.png"><img src="media/screenshots/08-plataformas.png" alt="Loja virtual — Dev Empire BETA 2.23.0" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><strong>Equipe e talentos</strong></td>
-    <td width="50%" align="center"><strong>Desenvolvimento de projetos</strong></td>
-  </tr>
-  <tr>
-    <td><a href="media/screenshots/04-equipe.png"><img src="media/screenshots/04-equipe.png" alt="Equipe e talentos — Dev Empire BETA 2.23.0" width="100%"></a></td>
-    <td><a href="media/screenshots/03-projeto.png"><img src="media/screenshots/03-projeto.png" alt="Desenvolvimento de projetos — Dev Empire BETA 2.23.0" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><strong>Ambientes do escritório</strong></td>
-    <td width="50%" align="center"><strong>Diretoria da empresa</strong></td>
-  </tr>
-  <tr>
-    <td><a href="media/screenshots/14-ambientes.png"><img src="media/screenshots/14-ambientes.png" alt="Ambientes do escritório — Dev Empire BETA 2.23.0" width="100%"></a></td>
-    <td><a href="media/screenshots/07-diretoria.png"><img src="media/screenshots/07-diretoria.png" alt="Diretoria da empresa — Dev Empire BETA 2.23.0" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><strong>Negociação de aquisições</strong></td>
-    <td width="50%" align="center"><strong>Pesquisa e tecnologias</strong></td>
-  </tr>
-  <tr>
-    <td><a href="media/screenshots/09-aquisicoes.png"><img src="media/screenshots/09-aquisicoes.png" alt="Negociação de aquisições — Dev Empire BETA 2.23.0" width="100%"></a></td>
-    <td><a href="media/screenshots/05-tecnologias.png"><img src="media/screenshots/05-tecnologias.png" alt="Pesquisa e tecnologias — Dev Empire BETA 2.23.0" width="100%"></a></td>
-  </tr>
-</table>
+[![An isometric office with the team at work in Dev Empire](media/screenshots/office.png)](media/screenshots/office.png)
 
 <details>
-<summary><strong>Ver o menu principal</strong></summary>
+<summary><strong>Take a closer look — two more gameplay previews</strong></summary>
 
-[![Menu principal de Dev Empire BETA 2.23.0](media/screenshots/01-menu.png)](media/screenshots/01-menu.png)
+**Your company, at a glance**
+
+[![Company overview with projects, finances and a workspace preview](media/screenshots/overview.png)](media/screenshots/overview.png)
+
+**From idea to development**
+
+[![Planning and developing a software project](media/screenshots/development.png)](media/screenshots/development.png)
 
 </details>
 
-## Como jogar
+<sub>Actual Windows Beta 2.23.0 screenshots, using a demonstration company with the interface set to English. Click an image to enlarge it.</sub>
 
-1. **[Baixe o jogo para Windows](https://github.com/ithalov/dev-empire/releases/download/v2.23.0/Dev-Empire-2.23.0-Windows.exe).**
-2. Abra **Dev-Empire-2.23.0-Windows.exe**. A versão é portátil e não precisa de instalação.
-3. Crie sua empresa e siga o guia do fundador para começar.
+## Made in Brazil, open to the world
 
-| Informação | Versão atual |
+Dev Empire is an independent Brazilian project by **[ithalov](https://github.com/ithalov)**. Its roots are Brazilian, and its audience is international. Players discovering management games for the first time and longtime tycoon fans are both welcome.
+
+Your feedback helps shape the game as it grows.
+
+## Languages
+
+Play in **English, Brazilian Portuguese, Spanish, French, German, Simplified Chinese or Japanese**. Brazilian Portuguese is the original language.
+
+Choose your language in **Settings → Language**. English and the other additional translations are being refined during the beta, so some wording may still need polish.
+
+## Start playing
+
+1. **[Download the Windows executable](https://github.com/ithalov/dev-empire/releases/download/v2.23.0/Dev-Empire-2.23.0-Windows.exe).**
+2. Open **Dev-Empire-2.23.0-Windows.exe**. This is a portable build; no separate runtime installation is needed.
+3. Found your company and follow the founder's guide.
+
+| Game details | Current beta |
 |---|---|
-| Plataforma | Windows x64 |
-| Idiomas | Português, inglês, espanhol, francês, alemão, chinês simplificado e japonês |
-| Experiência | Single-player e offline |
-| Download | Aproximadamente 126 MB |
-| Progresso | Salvamento automático local e exportação/importação de saves |
-| Fase | **BETA — em desenvolvimento** |
+| Platform | Windows x64 |
+| Experience | Single-player · offline |
+| Download | Approximately 126 MB |
+| Progress | Local autosaves and save import/export |
+| Current release | **Beta 2.23.0** |
 
-As traduções adicionais continuam em revisão durante o BETA.
-
-**Já está jogando uma versão anterior?** Exporte seu save nas configurações antes de atualizar e feche o jogo antigo.
+**Updating from an earlier build:** export a backup of your save in Settings and close the old game before opening the new executable.
 
 <details>
-<summary><strong>Dúvidas sobre o download</strong></summary>
+<summary><strong>Download notes</strong></summary>
 
-**Preciso instalar outros programas?** Não. O executável inclui o necessário para jogar.
-
-**Preciso de internet para jogar?** Não. A partida e os saves funcionam offline.
-
-**O Windows mostrou um aviso de editor desconhecido.** A BETA ainda não possui assinatura digital de editor. Baixe sempre pela página oficial deste repositório. O checksum SHA-256 está disponível na página da versão para conferir o arquivo.
-
-**Qual arquivo devo baixar na página da versão?** O arquivo **.exe**. Os arquivos automáticos chamados **Source code** são arquivos da página de apresentação e não servem para jogar.
+- The beta executable is not digitally signed yet. Download it from this repository's official release pages. **SHA256SUMS.txt** is included with the release to verify the file.
+- Choose the **.exe** under release assets. GitHub's automatic **Source code** archives contain this public presentation, not a playable build.
+- Internet is needed to download the game. Your single-player game and saves work offline.
 
 </details>
 
-## Sobre o BETA
+## Growing through beta
 
-**Você está jogando uma versão em desenvolvimento.** O jogo já está disponível para experimentar, mas pode apresentar bugs e receber mudanças na interface, no conteúdo e no balanceamento.
+Dev Empire is in active development. Bugs may occur, and updates can change content, balance and the interface.
 
-Novas versões serão publicadas em **[Releases](https://github.com/ithalov/dev-empire/releases)**. Faça uma cópia do seu save antes de atualizar.
+**Beta 2.23.0** makes the business world more active, expands company news and adds new economic events and annual recognition. Explore it at your own pace, or read the **[release notes](https://github.com/ithalov/dev-empire/releases/tag/v2.23.0)** for details.
 
-## Conte como foi sua experiência
+## Help shape the next chapter
 
-Encontrou um bug ou pensou em algo que deixaria o jogo melhor? **[Envie seu feedback](https://github.com/ithalov/dev-empire/issues/new)**.
-
-Ao relatar um problema, informe a versão do jogo, o que aconteceu e os passos para reproduzir. Uma captura de tela ajuda bastante.
+**[Report a bug or share an idea](https://github.com/ithalov/dev-empire/issues/new).** English and Brazilian Portuguese feedback are welcome. For a bug report, include your game version, what happened and how to reproduce it. A screenshot can help.
 
 ---
 
-<p align="center"><strong>Sua próxima grande ideia começa com o primeiro projeto.</strong><br><a href="https://github.com/ithalov/dev-empire/releases/download/v2.23.0/Dev-Empire-2.23.0-Windows.exe">Baixe a BETA e funde sua empresa.</a></p>
+<p align="center"><strong>Made in Brazil. Built for your next big idea.</strong><br><a href="https://github.com/ithalov/dev-empire/releases/download/v2.23.0/Dev-Empire-2.23.0-Windows.exe">Start your company.</a></p>
