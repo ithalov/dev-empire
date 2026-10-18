@@ -7,7 +7,7 @@
 <p align="center"><strong>Uma garagem, um computador e uma ideia.<br>O próximo império do software começa com você.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/ithalov/dev-empire/releases/tag/v2.9.0"><img src="https://img.shields.io/badge/vers%C3%A3o-2.9.0-blue?style=flat-square" alt="Versão 2.9.0"></a>
+  <a href="https://github.com/ithalov/dev-empire/releases/tag/v2.16.0"><img src="https://img.shields.io/badge/vers%C3%A3o-2.16.0-blue?style=flat-square" alt="Versão 2.16.0"></a>
   <img src="https://img.shields.io/badge/status-BETA-orange?style=flat-square" alt="Em BETA">
   <img src="https://img.shields.io/badge/plataforma-Windows_x64-0078D4?style=flat-square" alt="Windows x64">
   <img src="https://img.shields.io/badge/idioma-Portugu%C3%AAs-2E7D32?style=flat-square" alt="Português">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.9.0/Dev-Empire-2.9.0-Windows.exe"><img src="https://img.shields.io/badge/BAIXAR_BETA_2.9.0-WINDOWS_x64-F28C28?style=for-the-badge&logo=github&logoColor=white" alt="Baixar Dev Empire BETA 2.9.0 para Windows"></a>
+  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.16.0/Dev-Empire-2.16.0-Windows.exe"><img src="https://img.shields.io/badge/BAIXAR_BETA_2.16.0-WINDOWS_x64-F28C28?style=for-the-badge&logo=github&logoColor=white" alt="Baixar Dev Empire BETA 2.16.0 para Windows"></a>
 </p>
 
 <p align="center">
@@ -41,13 +41,22 @@ Negocie contratos, escolha tecnologias e acompanhe cada projeto até a entrega. 
 
 Jogue no seu ritmo: pause para planejar ou acelere o tempo para acompanhar os resultados das suas decisões.
 
+## Novidades da BETA 2.16.0
+
+- **Sua equipe ganha identidade:** retratos de funcionários e diretores, carreira, promoções e benefícios.
+- **Produtos com personalidade:** novos ícones por categoria, modelos de monetização e planejamento de versões.
+- **Plataformas:** transforme um sistema operacional ou loja em um ecossistema com aplicativos de outros desenvolvedores.
+- **Aquisições:** converse com CEOs, faça auditorias e decida como expandir seu grupo de empresas.
+- **Mods locais:** importe conteúdo da comunidade, confira as mudanças antes de aplicar e gerencie seus pacotes.
+- **Correções e melhorias visuais:** carregamento de saves antigos, botão de treinamento e novas artes originais.
+
 ## Imagens do jogo
 
-Capturas reais da **BETA 2.9.0 para Windows**. Clique nas imagens para ampliar.
+Capturas reais da **BETA 2.16.0 para Windows**, usando uma empresa de demonstração. Clique nas imagens para ampliar.
 
 ### Sua empresa em um só lugar
 
-[![Visão geral da empresa, com caixa, equipe e projetos](media/screenshots/02-visao-geral.png)](media/screenshots/02-visao-geral.png)
+[![Visão geral da empresa, com caixa, equipe, projetos e escritório](media/screenshots/02-visao-geral.png)](media/screenshots/02-visao-geral.png)
 
 <table>
   <tr>
@@ -55,23 +64,39 @@ Capturas reais da **BETA 2.9.0 para Windows**. Clique nas imagens para ampliar.
     <td width="50%" align="center"><strong>Equipe e contratação</strong></td>
   </tr>
   <tr>
-    <td><a href="media/screenshots/03-projeto.png"><img src="media/screenshots/03-projeto.png" alt="Projeto em desenvolvimento, com progresso, testes e modos de trabalho" width="100%"></a></td>
-    <td><a href="media/screenshots/04-equipe.png"><img src="media/screenshots/04-equipe.png" alt="Tela de equipe, profissionais e candidatos para contratação" width="100%"></a></td>
+    <td><a href="media/screenshots/03-projeto.png"><img src="media/screenshots/03-projeto.png" alt="Desenvolvimento de projetos em Dev Empire BETA 2.16.0" width="100%"></a></td>
+    <td><a href="media/screenshots/04-equipe.png"><img src="media/screenshots/04-equipe.png" alt="Equipe e contratação em Dev Empire BETA 2.16.0" width="100%"></a></td>
   </tr>
   <tr>
-    <td align="center"><strong>Pesquisa e tecnologias</strong></td>
-    <td align="center"><strong>Menu principal</strong></td>
+    <td width="50%" align="center"><strong>Produtos próprios</strong></td>
+    <td width="50%" align="center"><strong>Diretoria da empresa</strong></td>
   </tr>
   <tr>
-    <td><a href="media/screenshots/05-tecnologias.png"><img src="media/screenshots/05-tecnologias.png" alt="Linguagens e tecnologias disponíveis para pesquisa" width="100%"></a></td>
-    <td><a href="media/screenshots/01-menu.png"><img src="media/screenshots/01-menu.png" alt="Menu principal de Dev Empire" width="100%"></a></td>
+    <td><a href="media/screenshots/06-produtos.png"><img src="media/screenshots/06-produtos.png" alt="Produtos próprios em Dev Empire BETA 2.16.0" width="100%"></a></td>
+    <td><a href="media/screenshots/07-diretoria.png"><img src="media/screenshots/07-diretoria.png" alt="Diretoria da empresa em Dev Empire BETA 2.16.0" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>Plataformas e aplicativos</strong></td>
+    <td width="50%" align="center"><strong>Negociação de aquisições</strong></td>
+  </tr>
+  <tr>
+    <td><a href="media/screenshots/08-plataformas.png"><img src="media/screenshots/08-plataformas.png" alt="Plataformas e aplicativos em Dev Empire BETA 2.16.0" width="100%"></a></td>
+    <td><a href="media/screenshots/09-aquisicoes.png"><img src="media/screenshots/09-aquisicoes.png" alt="Negociação de aquisições em Dev Empire BETA 2.16.0" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>Pesquisa e tecnologias</strong></td>
+    <td width="50%" align="center"><strong>Menu principal</strong></td>
+  </tr>
+  <tr>
+    <td><a href="media/screenshots/05-tecnologias.png"><img src="media/screenshots/05-tecnologias.png" alt="Pesquisa e tecnologias em Dev Empire BETA 2.16.0" width="100%"></a></td>
+    <td><a href="media/screenshots/01-menu.png"><img src="media/screenshots/01-menu.png" alt="Menu principal em Dev Empire BETA 2.16.0" width="100%"></a></td>
   </tr>
 </table>
 
 ## Como jogar
 
-1. **[Baixe o jogo para Windows](https://github.com/ithalov/dev-empire/releases/download/v2.9.0/Dev-Empire-2.9.0-Windows.exe).**
-2. Abra **Dev-Empire-2.9.0-Windows.exe**. A versão é portátil e não precisa de instalação.
+1. **[Baixe o jogo para Windows](https://github.com/ithalov/dev-empire/releases/download/v2.16.0/Dev-Empire-2.16.0-Windows.exe).**
+2. Abra **Dev-Empire-2.16.0-Windows.exe**. A versão é portátil e não precisa de instalação.
 3. Crie sua empresa e siga o guia do fundador para começar.
 
 | Informação | Versão atual |
@@ -79,7 +104,7 @@ Capturas reais da **BETA 2.9.0 para Windows**. Clique nas imagens para ampliar.
 | Plataforma | Windows x64 |
 | Idioma | Português |
 | Experiência | Single-player e offline |
-| Download | Aproximadamente 101 MB |
+| Download | Aproximadamente 126 MB |
 | Progresso | Salvamento automático local e exportação/importação de saves |
 | Fase | **BETA — em desenvolvimento** |
 
@@ -112,4 +137,4 @@ Ao relatar um problema, informe a versão do jogo, o que aconteceu e os passos p
 
 ---
 
-<p align="center"><strong>Sua próxima grande ideia começa com o primeiro projeto.</strong><br><a href="https://github.com/ithalov/dev-empire/releases/download/v2.9.0/Dev-Empire-2.9.0-Windows.exe">Baixe a BETA e funde sua empresa.</a></p>
+<p align="center"><strong>Sua próxima grande ideia começa com o primeiro projeto.</strong><br><a href="https://github.com/ithalov/dev-empire/releases/download/v2.16.0/Dev-Empire-2.16.0-Windows.exe">Baixe a BETA e funde sua empresa.</a></p>
