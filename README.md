@@ -7,7 +7,7 @@
 <p align="center"><strong>Start with an idea. Build a company. Make your mark.</strong><br>A software company tycoon, made in Brazil for players around the world.</p>
 
 <p align="center">
-  <a href="https://github.com/ithalov/dev-empire/releases/tag/v2.23.0"><img src="https://img.shields.io/badge/version-2.23.0-F28C28?style=flat-square" alt="Version 2.23.0"></a>
+  <a href="https://github.com/ithalov/dev-empire/releases/tag/v2.28.2"><img src="https://img.shields.io/badge/version-2.28.2-F28C28?style=flat-square" alt="Version 2.28.2"></a>
   <img src="https://img.shields.io/badge/status-BETA-9B59B6?style=flat-square" alt="Beta — in development">
   <img src="https://img.shields.io/badge/platform-Windows_x64-0078D4?style=flat-square" alt="Windows x64">
   <img src="https://img.shields.io/badge/languages-7-2E7D32?style=flat-square" alt="Seven interface languages">
@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.23.0/Dev-Empire-2.23.0-Windows.exe"><img src="https://img.shields.io/badge/DOWNLOAD_BETA_2.23.0-WINDOWS_x64-F28C28?style=for-the-badge&logo=github&logoColor=white" alt="Download Dev Empire Beta 2.23.0 for Windows"></a>
+  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-2.28.2-Windows.exe"><img src="https://img.shields.io/badge/DOWNLOAD_PORTABLE_2.28.2-WINDOWS_x64-F28C28?style=for-the-badge&logo=github&logoColor=white" alt="Download Dev Empire Beta 2.28.2 portable for Windows"></a><br>
+  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-Setup-2.28.2.exe">Prefer an installer? Download Windows Setup</a>
 </p>
 
 <p align="center">
@@ -57,7 +58,7 @@ A glimpse of your future workspace. The rest is yours to discover.
 
 </details>
 
-<sub>Actual Windows Beta 2.23.0 screenshots, using a demonstration company with the interface set to English. Click an image to enlarge it.</sub>
+<sub>Actual Windows Beta 2.28.2 screenshots, using a demonstration company with the interface set to English. Click an image to enlarge it.</sub>
 
 ## Made in Brazil, open to the world
 
@@ -69,21 +70,21 @@ Your feedback helps shape the game as it grows.
 
 Play in **English, Brazilian Portuguese, Spanish, French, German, Simplified Chinese or Japanese**. Brazilian Portuguese is the original language.
 
-Choose your language in **Settings → Language**. English and the other additional translations are being refined during the beta, so some wording may still need polish.
+Choose your language in **Settings → Language**. English and the other additional translations are being refined during the beta. Some screens still contain Brazilian Portuguese text.
 
 ## Start playing
 
-1. **[Download the Windows executable](https://github.com/ithalov/dev-empire/releases/download/v2.23.0/Dev-Empire-2.23.0-Windows.exe).**
-2. Open **Dev-Empire-2.23.0-Windows.exe**. This is a portable build; no separate runtime installation is needed.
+1. Choose **[Windows Setup](https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-Setup-2.28.2.exe)** or the **[portable edition](https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-2.28.2-Windows.exe)**.
+2. Run **Dev-Empire-Setup-2.28.2.exe** to install with shortcuts, or open **Dev-Empire-2.28.2-Windows.exe** to play without installation. Both editions include the runtime.
 3. Found your company and follow the founder's guide.
 
 | Game details | Current beta |
 |---|---|
 | Platform | Windows x64 |
 | Experience | Single-player · offline |
-| Download | Approximately 126 MB |
+| Downloads | Portable: approximately 144 MB · Installer: approximately 158 MB |
 | Progress | Local autosaves and save import/export |
-| Current release | **Beta 2.23.0** |
+| Current release | **Beta 2.28.2** |
 
 **Updating from an earlier build:** export a backup of your save in Settings and close the old game before opening the new executable.
 
@@ -100,7 +101,14 @@ Choose your language in **Settings → Language**. English and the other additio
 
 Dev Empire is in active development. Bugs may occur, and updates can change content, balance and the interface.
 
-**Beta 2.23.0** makes the business world more active, expands company news and adds new economic events and annual recognition. Explore it at your own pace, or read the **[release notes](https://github.com/ithalov/dev-empire/releases/tag/v2.23.0)** for details.
+**Beta 2.28.2** brings more personality to your workplace and more ways to shape your company. Recent updates include:
+
+- **A workplace that evolves:** computers change with the era, with expanded offices, production spaces and a medical wing.
+- **Your own identity:** customize company and product logos, with 56 ready-made pixel-art company emblems and more staff portraits.
+- **More control over your team:** set working hours, recruit for specific skills and assign people across locations.
+- **A growing business world:** react to company news, manage relationships with rivals and plan ahead with financial forecasts.
+
+The latest update redesigns office computers, hospital equipment, factory machinery and the staff allocation screen. Read the **[2.28.2 release notes](https://github.com/ithalov/dev-empire/releases/tag/v2.28.2)** for the details.
 
 ## Help shape the next chapter
 
@@ -108,4 +116,4 @@ Dev Empire is in active development. Bugs may occur, and updates can change cont
 
 ---
 
-<p align="center"><strong>Made in Brazil. Built for your next big idea.</strong><br><a href="https://github.com/ithalov/dev-empire/releases/download/v2.23.0/Dev-Empire-2.23.0-Windows.exe">Start your company.</a></p>
+<p align="center"><strong>Made in Brazil. Built for your next big idea.</strong><br><a href="https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-2.28.2-Windows.exe">Start your company.</a></p>
