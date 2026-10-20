@@ -7,20 +7,21 @@
 <p align="center"><strong>Start with an idea. Build a company. Make your mark.</strong><br>A software company tycoon, made in Brazil for players around the world.</p>
 
 <p align="center">
-  <a href="https://github.com/ithalov/dev-empire/releases/tag/v2.28.2"><img src="https://img.shields.io/badge/version-2.28.2-F28C28?style=flat-square" alt="Version 2.28.2"></a>
+  <a href="https://github.com/ithalov/dev-empire/releases/tag/v2.30.0"><img src="https://img.shields.io/badge/version-2.30.0-F28C28?style=flat-square" alt="Version 2.30.0"></a>
   <img src="https://img.shields.io/badge/status-BETA-9B59B6?style=flat-square" alt="Beta — in development">
-  <img src="https://img.shields.io/badge/platform-Windows_x64-0078D4?style=flat-square" alt="Windows x64">
+  <img src="https://img.shields.io/badge/platform-Windows_x64_%26_Android-0078D4?style=flat-square" alt="Windows x64 and Android">
   <img src="https://img.shields.io/badge/languages-7-2E7D32?style=flat-square" alt="Seven interface languages">
   <img src="https://img.shields.io/badge/play-single--player_%C2%B7_offline-555555?style=flat-square" alt="Single-player and offline">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-2.28.2-Windows.exe"><img src="https://img.shields.io/badge/DOWNLOAD_PORTABLE_2.28.2-WINDOWS_x64-F28C28?style=for-the-badge&logo=github&logoColor=white" alt="Download Dev Empire Beta 2.28.2 portable for Windows"></a><br>
-  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-Setup-2.28.2.exe">Prefer an installer? Download Windows Setup</a>
+  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.30.0/Dev-Empire-2.30.0-Android-test.apk"><img src="https://img.shields.io/badge/ANDROID-TEST_APK_2.30.0-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download Android test APK 2.30.0"></a>
+  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.30.0/Dev-Empire-Setup-2.30.0.exe"><img src="https://img.shields.io/badge/WINDOWS-INSTALLER_2.30.0-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Download Windows installer 2.30.0"></a><br>
+  <a href="https://github.com/ithalov/dev-empire/releases/download/v2.30.0/Dev-Empire-2.30.0-Windows.exe">Windows portable edition — play without installation</a>
 </p>
 
 <p align="center">
-  <a href="#the-game">The game</a> · <a href="#a-small-look-inside">Preview</a> · <a href="#languages">Languages</a> · <a href="#start-playing">Start playing</a> · <a href="https://github.com/ithalov/dev-empire/releases">Updates</a>
+  <a href="#the-game">The game</a> · <a href="#a-small-look-inside">Preview</a> · <a href="#play-on-android">Android</a> · <a href="#languages">Languages</a> · <a href="#start-playing">Start playing</a> · <a href="https://github.com/ithalov/dev-empire/releases">Updates</a>
 </p>
 
 ---
@@ -66,6 +67,14 @@ Dev Empire is an independent Brazilian project by **[ithalov](https://github.com
 
 Your feedback helps shape the game as it grows.
 
+## Play on Android
+
+**Dev Empire is now available as an experimental Android test APK**, alongside the Windows editions. Requires **Android 7.0 or later**. Download size: approximately **69 MB**.
+
+Play with **touch controls in landscape**. Mobile has a compact navigation rail, horizontally scrolling tabs and full-screen dialogs. Tap bubbles in focus mode, and use pinch gestures or the zoom buttons to explore your company. Progress is stored on the device, with save import/export and automatic saving when the app goes into the background.
+
+Download **[Dev-Empire-2.30.0-Android-test.apk](https://github.com/ithalov/dev-empire/releases/download/v2.30.0/Dev-Empire-2.30.0-Android-test.apk)** on your Android device, open it and allow your browser or file manager to install it if Android asks. This is a **debug/test build** for beta feedback; device compatibility and touch layouts are still being refined.
+
 ## Languages
 
 Play in **English, Brazilian Portuguese, Spanish, French, German, Simplified Chinese or Japanese**. Brazilian Portuguese is the original language.
@@ -74,26 +83,25 @@ Choose your language in **Settings → Language**. English and the other additio
 
 ## Start playing
 
-1. Choose **[Windows Setup](https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-Setup-2.28.2.exe)** or the **[portable edition](https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-2.28.2-Windows.exe)**.
-2. Run **Dev-Empire-Setup-2.28.2.exe** to install with shortcuts, or open **Dev-Empire-2.28.2-Windows.exe** to play without installation. Both editions include the runtime.
-3. Found your company and follow the founder's guide.
+Choose the edition for your device:
 
-| Game details | Current beta |
-|---|---|
-| Platform | Windows x64 |
-| Experience | Single-player · offline |
-| Downloads | Portable: approximately 144 MB · Installer: approximately 158 MB |
-| Progress | Local autosaves and save import/export |
-| Current release | **Beta 2.28.2** |
+| Download | Requirements | Approximate size |
+|---|---|---|
+| **[Android test APK](https://github.com/ithalov/dev-empire/releases/download/v2.30.0/Dev-Empire-2.30.0-Android-test.apk)** | Android 7.0+ · landscape · touch controls | 69 MB |
+| **[Windows installer](https://github.com/ithalov/dev-empire/releases/download/v2.30.0/Dev-Empire-Setup-2.30.0.exe)** | Windows x64 · installation with shortcuts | 158 MB |
+| **[Windows portable](https://github.com/ithalov/dev-empire/releases/download/v2.30.0/Dev-Empire-2.30.0-Windows.exe)** | Windows x64 · open and play | 144 MB |
 
-**Updating from an earlier build:** export a backup of your save in Settings and close the old game before opening the new executable.
+Both Windows editions include the runtime. After opening the game, found your company and follow the founder's guide.
+
+**Beta 2.30.0 · Single-player · Offline gameplay · Local saves and save import/export.** Saves are stored separately on each device. Export a backup before updating or moving saves between devices.
 
 <details>
 <summary><strong>Download notes</strong></summary>
 
-- The beta executable is not digitally signed yet. Download it from this repository's official release pages. **SHA256SUMS.txt** is included with the release to verify the file.
-- Choose the **.exe** under release assets. GitHub's automatic **Source code** archives contain this public presentation, not a playable build.
-- Internet is needed to download the game. Your single-player game and saves work offline.
+- Windows beta executables are not digitally signed yet. The Android APK uses a test signing certificate. Download from this repository's official release pages.
+- **SHA256SUMS.txt** accompanies the release so you can check the integrity of all three downloads.
+- Select the **.exe** or **.apk** under release assets. GitHub's automatic **Source code** archives contain this public presentation, not a playable build.
+- Internet is needed to download the game. Single-player gameplay and local saves work offline.
 
 </details>
 
@@ -101,14 +109,16 @@ Choose your language in **Settings → Language**. English and the other additio
 
 Dev Empire is in active development. Bugs may occur, and updates can change content, balance and the interface.
 
-**Beta 2.28.2** brings more personality to your workplace and more ways to shape your company. Recent updates include:
+**Beta 2.30.0** expands the decisions behind every product. Recent highlights:
 
-- **A workplace that evolves:** computers change with the era, with expanded offices, production spaces and a medical wing.
-- **Your own identity:** customize company and product logos, with 56 ready-made pixel-art company emblems and more staff portraits.
-- **More control over your team:** set working hours, recruit for specific skills and assign people across locations.
-- **A growing business world:** react to company news, manage relationships with rivals and plan ahead with financial forecasts.
+- **Engines and libraries:** develop your own technology, license it to rivals or build with theirs.
+- **Patents and platform ports:** protect inventions and bring your in-game products to new platforms as the years advance.
+- **A fuller development cycle:** plan features, build a prototype, move through alpha and beta, and decide when to launch or enter early access.
+- **Life after launch:** manage reported bugs, dedicated support, fan communities, technical debt and refactoring.
+- **People and business:** recruit trainees, compete for government contracts and tailor marketing to your audience.
+- **A living company:** explore the street outside your headquarters, watch the office change with the era and keep growing on Windows or Android.
 
-The latest update redesigns office computers, hospital equipment, factory machinery and the staff allocation screen. Read the **[2.28.2 release notes](https://github.com/ithalov/dev-empire/releases/tag/v2.28.2)** for the details.
+Read the **[2.30.0 release notes](https://github.com/ithalov/dev-empire/releases/tag/v2.30.0)** for the latest additions and mobile beta details.
 
 ## Help shape the next chapter
 
@@ -116,4 +126,4 @@ The latest update redesigns office computers, hospital equipment, factory machin
 
 ---
 
-<p align="center"><strong>Made in Brazil. Built for your next big idea.</strong><br><a href="https://github.com/ithalov/dev-empire/releases/download/v2.28.2/Dev-Empire-2.28.2-Windows.exe">Start your company.</a></p>
+<p align="center"><strong>Made in Brazil. Built for your next big idea.</strong><br><a href="https://github.com/ithalov/dev-empire/releases/download/v2.30.0/Dev-Empire-2.30.0-Windows.exe">Start your company on Windows.</a> · <a href="https://github.com/ithalov/dev-empire/releases/download/v2.30.0/Dev-Empire-2.30.0-Android-test.apk">Try the Android beta.</a></p>
